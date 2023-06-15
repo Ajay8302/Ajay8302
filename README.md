@@ -17,7 +17,7 @@
 
 <br>
   
-- ### 💼 Full Stack Software Engineer at [mphasis Limited](http://razorpay.com/)
+- ### 💼 Full Stack Software Engineer at [mphasis Limited](https://www.mphasis.com/home.html)
 - ### 💬 ask me about anything, i am happy to help;
 
 <hr>
