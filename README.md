@@ -108,12 +108,13 @@
 
 <!-- *********************************************** Github Stats **************************************************** -->
 
-### &#x1f4c8; 📊 GitHub Stats
+### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay8302&layout=compact&theme=vision-friendly-dark)](https://github.com/Ajay8302/github-readme-stats)
 
 </br>
 </br>
 
+### 📊 GitHub Short Overview
 [![Ajay's GitHub activity graph](https://streak-stats.demolab.com?user=Ajay8302&theme=prussian)](https://https://https://tinyurl.com/ajay8302/streak-stats)
 
 </br>
