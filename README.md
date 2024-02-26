@@ -1,6 +1,6 @@
 <!-- ********************************************* Header ***************************************************** -->
 
-<p align ="center"><a href="https://ajaykumar-dev.netlify.app/"><img width="100%" alt="Hello, I'm Ajay Kumar. I do love open source!" src="./assets/header_image.png" /></a></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=E924EF&center=true&random=false&width=1000&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Ajay+Kumar...;A+passionate+Software+Engineer+from+India...)](https://git.io/typing-svg)
 
 <br />
 
@@ -11,14 +11,14 @@
 <!-- *********************************************** About me ***************************************************** -->
 ### About me folks! 
 
-### hi, i'm [Ajay Kumar](https://ajaykumar-dev.netlify.app/), a passionate self-taught MERN stack web developer | freelancer | Passionate Data Engineer | software engineer by Profession from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### hi, i'm [Ajay Kumar](https://ajaykumar-dev.netlify.app/), a passionate self-taught MERN stack web developer | freelancer | Passionate Data Engineer | software engineer by Profession from india. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-### i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+### I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <br>
   
 - ### 💼 Full Stack Software Engineer at [mphasis Limited](https://www.mphasis.com/home.html)
-- ### 💬 ask me about anything, i am happy to help;
+- ### 💬 ask me about anything, I am happy to help;
 
 <hr>
 
