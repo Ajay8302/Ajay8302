@@ -4,7 +4,7 @@
 
 <br />
 
-<p align ="center"><a href="https://github.com/Ajay8302"><img width="100%" alt="Hello, I'm Anurag. I do open source!" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" /></a></p>
+<p align ="right" width="300"><a href="https://github.com/Ajay8302"><img width="100%" alt="Hello, I'm Ajay. I do open source!" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" /></a></p>
 
 
 
@@ -27,7 +27,7 @@
 <!-- *********************************************** Social connect ***************************************************** -->
 
 
-### 🌍 Connect with me 
+### 🌐 Socials:
 
 <!-- [![Twitter][1.1]][1]  -->
 [![LinkedIn][2.1]][2] 
