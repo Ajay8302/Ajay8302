@@ -86,6 +86,4 @@ I'm a passionate **MERN Stack Developer** | **.Net Full Stack Developer** | **Da
   ![Visitor Count](https://komarev.com/ghpvc/?username=Ajay8302&color=blueviolet&style=flat)
   
   <p>Thanks for visiting! ❤️</p>
-  
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 </div>
