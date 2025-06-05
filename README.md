@@ -8,82 +8,109 @@
 
 
 
-<!-- *********************************************** About Me Section ***************************************************** -->
+<!-- *********************************************** About me ***************************************************** -->
 ### 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** | **.Net Full Stack Developer** | **Data Engineer** from India 🇮🇳. I love transforming ideas into reality with clean, efficient code and beautiful interfaces. My focus is on creating exceptional user experiences while maintaining robust architecture and code quality.
+I'm a passionate **MERN Stack Developer** | **.Net Full Stack Developer** | **Data Science** from India 🇮🇳. I love transforming ideas into reality with clean, efficient code and beautiful interfaces. My focus is on creating exceptional user experiences while maintaining robust architecture and code quality.
 
 - 🔭 Currently working as a **Full Stack Software Engineer** at [Mphasis Limited](https://www.mphasis.com/home.html)
 - 🌱 Constantly learning and exploring **AI/ML, Cloud Technologies, and System Design**
 - 💡 Open-source contributor and maintainer
 - ✨ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
----
 
-<!-- *********************************************** Social Links ***************************************************** -->
+
+<!-- *********************************************** Social connect ***************************************************** -->
+
+
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumardev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ajaykumar-dev.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile/)
+<!-- [![Twitter][1.1]][1]  -->
+[![LinkedIn][2.1]][2] 
+<!-- [![Instagram][3.1]][3] -->
 
----
+<!-- Icons -->
 
-<!-- *********************************************** Tech Stack ***************************************************** -->
+[2.1]: https://img.icons8.com/color/48/000000/linkedin.png (LinkedIn icon with padding)
+<!-- [1.1]: https://img.icons8.com/color/48/000000/twitter--v1.png (twitter icon with padding) -->
+<!-- [3.1]: https://img.icons8.com/color/48/000000/instagram-new--v1.png (instagram icon with padding) -->
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/ajaykumardev/
+<!-- [1]: https://twitter.com/# -->
+<!-- [3]: https://www.instagram.com/# -->
+
+<hr>
+
+<br> 
+
+
+<!-- *********************************************** Technologies used ***************************************************** -->
+
+
 ## 🛠️ My Tech Stack
 
 ### 👨‍💻 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=007396)
 
 ### 🌐 Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+  ![Asp.Net](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
 
 ### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  
+### Version Control
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🔬 Data Science & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-<!-- *********************************************** GitHub Stats **************************************************** -->
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ajay8302&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay8302&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay8302&layout=compact&theme=radical" />
-</div>
-
----
-
-<!-- *********************************************** Footer **************************************************** -->
-<div align="center">
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda%20-333333?style=flat&logo=anaconda&)
+  ![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC) 
+  ![Kubernete](https://img.shields.io/badge/-Kubernete-333333?style=flat&logo=kubernete&logoColor=007ACC) 
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Ajay8302&color=blueviolet&style=flat)
+- 🔬 Data Science & AI
+  ![Tensor Flow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensor-flow&logoColor=007ACC)
+  ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=NLP&logoColor=007ACC)
+  ![Deep Learning](https://img.shields.io/badge/-DeepLearning-333333?style=flat&logo=DeepLearning&logoColor=007ACC)
+  ![Data Visualization](https://img.shields.io/badge/-DataVisualization-333333?style=flat&logo=DataVisualization&logoColor=007ACC)
+
+<br/>
+<br/>
+
+
+<!-- *********************************************** Github Stats **************************************************** -->
+
+### 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay8302&layout=compact&theme=vision-friendly-dark)](https://github.com/Ajay8302/github-readme-stats)
+
+</br>
+</br>
+
+### 📊 GitHub Short Overview
+[![Ajay's GitHub activity graph](https://streak-stats.demolab.com?user=Ajay8302&theme=prussian)](https://https://https://tinyurl.com/ajay8302/streak-stats)
+
+</br>
+</br>
   
-  <p>Thanks for visiting! ❤️</p>
-</div>
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Ajay8302&theme=prussian&show_icons=true&count_private=true)
+
+<!-- *********************************************** Buy a Coffee for me **************************************************** -->
