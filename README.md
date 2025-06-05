@@ -11,7 +11,7 @@
 <!-- *********************************************** About me ***************************************************** -->
 ### 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** | **.Net Full Stack Developer** | **Data Science** from India 🇮🇳. I love transforming ideas into reality with clean, efficient code and beautiful interfaces. My focus is on creating exceptional user experiences while maintaining robust architecture and code quality.
+I'm a passionate **MERN Stack Developer** | **.Net Full Stack Developer** | **Data Science Enthusiast** | **Competitive Programmer** from India 🇮🇳. I love transforming ideas into reality with clean, efficient code and beautiful interfaces. My focus is on creating exceptional user experiences while maintaining robust architecture and code quality.
 
 - 🔭 Currently working as a **Full Stack Software Engineer** at [Mphasis Limited](https://www.mphasis.com/home.html)
 - 🌱 Constantly learning and exploring **AI/ML, Cloud Technologies, and System Design**
